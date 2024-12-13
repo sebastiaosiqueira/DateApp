@@ -1,0 +1,14 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\bin\Debug\net8.0\DateApp.exe
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\bin\Debug\net8.0\DateApp.deps.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\bin\Debug\net8.0\DateApp.runtimeconfig.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\bin\Debug\net8.0\DateApp.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\bin\Debug\net8.0\DateApp.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\refint\DateApp.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\DateApp.genruntimeconfig.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DateApp\obj\Debug\net8.0\ref\DateApp.dll
